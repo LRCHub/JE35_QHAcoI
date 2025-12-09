@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "01 str jpn youtube 15s",
+  "base_artist": "THE RICH",
+  "createdAt": "2025-12-09T12:32:10.267201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "01 - Atado A Un Sentimiento",
+      "artist": "Miguel Mateos",
+      "has_synced": false,
+      "path": "select/01_01_-_Atado_A_Un_Sentimiento_Miguel_Mateos.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "01 - Cherub Rock - Remastered 2011",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/02_01_-_Cherub_Rock_-_Remastered_2011_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "01 - Cuando Seas Grande",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/03_01_-_Cuando_Seas_Grande_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "01 - Debajo Del Puente",
+      "artist": "Ariel Rot",
+      "has_synced": true,
+      "path": "select/04_01_-_Debajo_Del_Puente_Ariel_Rot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "01 - I Don't Want To Miss A Thing - From armageddon Soundtrack",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/05_01_-_I_Don't_Want_To_Miss_A_Thing_-_From_armageddon_Soundtrack_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "01 - Late In The Evening",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/06_01_-_Late_In_The_Evening_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "01 - Take On Me",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/07_01_-_Take_On_Me_A.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "01 - Tengo Que Parar",
+      "artist": "Miguel Mateos",
+      "has_synced": false,
+      "path": "select/08_01_-_Tengo_Que_Parar_Miguel_Mateos.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "1986 - 01 - Aire De Todos",
+      "artist": "Git",
+      "has_synced": true,
+      "path": "select/09_1986_-_01_-_Aire_De_Todos_Git.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dollars & Cents (Canal+ Studios, 28-04-01)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_Dollars_&_Cents_(Canal+_Studios,_28-04-01)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Might Be Wrong (Canal+ Studios, 28-04-01)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/11_I_Might_Be_Wrong_(Canal+_Studios,_28-04-01)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Knives Out (Canal+ Studios, 28-04-01)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/12_Knives_Out_(Canal+_Studios,_28-04-01)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pyramid Song (Canal+ Studios, 28-04-01)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/13_Pyramid_Song_(Canal+_Studios,_28-04-01)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You and Whose Army? (Canal+ Studios, 28-04-01)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/14_You_and_Whose_Army__(Canal+_Studios,_28-04-01)_Radiohead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "01 Rieka",
+      "artist": "Richard Müller",
+      "has_synced": false,
+      "path": "select/pl_01_01_Rieka_Richard_Müller.txt"
+    }
+  ]
+}
